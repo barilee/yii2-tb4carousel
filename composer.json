@@ -1,0 +1,21 @@
+{
+    "name": "linil/yii2-tb4carousel",
+    "description": "Carousel as implemented in Twitter Bootstrap V4 example.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","carousel","slider"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Barilee Ledor Apenu",
+            "email": "barilee@linil.com.ng"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "linil\\tb4carousel\\": ""
+        }
+    }
+}
